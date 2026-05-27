@@ -14,8 +14,8 @@
 
 ## 📊 Progress
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-1-blue?style=for-the-badge)
-![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-6-blue?style=for-the-badge)
+![Easy](https://img.shields.io/badge/Easy-5-brightgreen?style=for-the-badge)
 ![Medium](https://img.shields.io/badge/Medium-1-yellow?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
@@ -25,11 +25,9 @@
 
 | # | Problem | Difficulty | Solution | Time | Space |
 |---|---------|------------|----------|------|-------|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./easy/0001_two_sum.py) | O(n) | O(n) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Python](./easy/0009_palindrome_number.py) | O(d) | O(d) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [Python](./easy/0014_longest_common_prefix.py) | O(n*m) | O(1) |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | [Python](./easy/0657_robot_return_to_origin.py) | O(n) | O(1) |
+| 3120 | [Count Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | [Python](./easy/3120_count_special_characters_I.py) | O(n) | O(1) |
 | 3121 | [Count Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | [Python](./medium/3121_count_special_characters_II.py) | O(n) | O(1) |
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/said-baqbergenov-97b147384/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/said_backend)
