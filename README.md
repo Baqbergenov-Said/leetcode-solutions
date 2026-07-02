@@ -31,3 +31,4 @@
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | [Python](./easy/0657_robot_return_to_origin.py) | O(n) | O(1) |
 | 3120 | [Count Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | [Python](./easy/3120_count_special_characters_I.py) | O(n) | O(1) |
 | 3121 | [Count Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | [Python](./medium/3121_count_special_characters_II.py) | O(n) | O(1) |
+| 1790 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | [Python](.\easy\1071_Greatest_Common_Divisor_of_Strings.py) | O(n+m) | O(n+m)
