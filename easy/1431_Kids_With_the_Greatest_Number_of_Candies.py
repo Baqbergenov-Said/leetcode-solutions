@@ -5,17 +5,17 @@
 #           extraCandies makes their count >= max.
 # Time: O(n) | Space: O(n)
 
-candies = [12, 1, 12]
-extraCandies = 10
-max_num = max(candies)
-result = []
+class Solution:
+    def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
+        result=[]
+        max_num=max(candies)
+        
+        # Har bir bola uchun, agar unga extraCandies qo'shilganda
+        # eng ko'p konfetga ega bo'lgan boladan kam bo'lmasa — True qo'shamiz
+        for i in candies:
+            if max_num <= i+extraCandies:
+                result.append(True)  
+            else:
+                result.append(False)
 
-# Har bir bola uchun, agar unga extraCandies qo'shilganda
-# eng ko'p konfetga ega bo'lgan boladan kam bo'lmasa — True qo'shamiz
-for i in candies:
-    if max_num <= i + extraCandies:
-        result.append(True)
-    else:
-        result.append(False)
-
-print(result)
+        return result

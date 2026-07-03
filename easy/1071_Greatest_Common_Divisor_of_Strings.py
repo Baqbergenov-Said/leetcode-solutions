@@ -19,9 +19,3 @@ def gcdOfStrings(str1: str, str2: str) -> str:
     
     # Take the first `gcd` characters of str1 as the answer.
     return str1[:gcd]
-
-
-print(gcdOfStrings(
-    "CXTXNCXTXNCXTXNCXTXNCXTXN",
-    "CXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXNCXTXN"
-))
