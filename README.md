@@ -22,13 +22,13 @@
 ---
 
 ## 📁 Solutions
-
 | # | Problem | Difficulty | Solution | Time | Space |
 |---|---------|------------|----------|------|-------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./easy/0001_two_sum.py) | O(n) | O(n) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Python](./easy/0009_palindrome_number.py) | O(d) | O(d) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 🟢 Easy | [Python](./easy/0014_longest_common_prefix.py) | O(n*m) | O(1) |
+| 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | 🟢 Easy | [Python](./easy/0605_can_place_flowers.py) | O(n) | O(1) |
 | 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | 🟢 Easy | [Python](./easy/0657_robot_return_to_origin.py) | O(n) | O(1) |
+| 1790 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | [Python](./easy/1790_Greatest_Common_Divisor_of_Strings.py) | O(n+m) | O(n+m) |
 | 3120 | [Count Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/) | 🟢 Easy | [Python](./easy/3120_count_special_characters_I.py) | O(n) | O(1) |
 | 3121 | [Count Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/) | 🟡 Medium | [Python](./medium/3121_count_special_characters_II.py) | O(n) | O(1) |
-| 1790 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | 🟢 Easy | [Python](.\easy\1071_Greatest_Common_Divisor_of_Strings.py) | O(n+m) | O(n+m)
